@@ -1,0 +1,36 @@
+<script>
+const main = () =>{
+	while(true){
+	   let item = parseInt(prompt("O que vc deseja \n 1 - Cadastrar \n 2 - Listar \n 3 - Sair"))
+
+		switch (item) {
+		  case 1:
+		    Cadastrar()
+		    break;
+		  case 2:
+		    Listar();
+		    break;
+		  case 3:
+		    return
+		    break;
+		}
+	}
+}
+
+const lista = [];
+
+const Listar = () =>{
+	lista.forEach((usuario) => {
+		alert(`Nome: ${usuario.nome}\nSalario: ${usuario.salario}`)
+	})
+}
+
+const Cadastrar = () =>{
+	let usuario = {}
+    usuario.nome = prompt("Nome do usuario")
+    usuario.salario = Number(prompt("Nome do salario"))
+    lista.push(usuario);
+};
+
+main();
+</script>

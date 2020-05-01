@@ -1,0 +1,12 @@
+/Users/danilo/Projects/ExercicioFuncionarios/ExercicioFuncionarios/bin/Debug/netcoreapp3.1/ExercicioFuncionarios.deps.json
+/Users/danilo/Projects/ExercicioFuncionarios/ExercicioFuncionarios/bin/Debug/netcoreapp3.1/ExercicioFuncionarios.runtimeconfig.json
+/Users/danilo/Projects/ExercicioFuncionarios/ExercicioFuncionarios/bin/Debug/netcoreapp3.1/ExercicioFuncionarios.runtimeconfig.dev.json
+/Users/danilo/Projects/ExercicioFuncionarios/ExercicioFuncionarios/bin/Debug/netcoreapp3.1/ExercicioFuncionarios.dll
+/Users/danilo/Projects/ExercicioFuncionarios/ExercicioFuncionarios/bin/Debug/netcoreapp3.1/ExercicioFuncionarios.pdb
+/Users/danilo/Projects/ExercicioFuncionarios/ExercicioFuncionarios/obj/Debug/netcoreapp3.1/ExercicioFuncionarios.csprojAssemblyReference.cache
+/Users/danilo/Projects/ExercicioFuncionarios/ExercicioFuncionarios/obj/Debug/netcoreapp3.1/ExercicioFuncionarios.csproj.CoreCompileInputs.cache
+/Users/danilo/Projects/ExercicioFuncionarios/ExercicioFuncionarios/obj/Debug/netcoreapp3.1/ExercicioFuncionarios.AssemblyInfoInputs.cache
+/Users/danilo/Projects/ExercicioFuncionarios/ExercicioFuncionarios/obj/Debug/netcoreapp3.1/ExercicioFuncionarios.AssemblyInfo.cs
+/Users/danilo/Projects/ExercicioFuncionarios/ExercicioFuncionarios/obj/Debug/netcoreapp3.1/ExercicioFuncionarios.dll
+/Users/danilo/Projects/ExercicioFuncionarios/ExercicioFuncionarios/obj/Debug/netcoreapp3.1/ExercicioFuncionarios.pdb
+/Users/danilo/Projects/ExercicioFuncionarios/ExercicioFuncionarios/obj/Debug/netcoreapp3.1/ExercicioFuncionarios.genruntimeconfig.cache
